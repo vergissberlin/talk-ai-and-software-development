@@ -93,3 +93,7 @@ KI kann Tests generieren. Dieser Prozess wird Testgenerierung genannt. Dieser Pr
 - [https://de.wikipedia.org/wiki/K%C3%BCnstliche_Intelligenz](https://de.wikipedia.org/wiki/K%C3%BCnstliche_Intelligenz)
 - [https://de.wikipedia.org/wiki/Maschinelles_Lernen](https://de.wikipedia.org/wiki/Maschinelles_Lernen)
 - [https://de.wikipedia.org/wiki/Tiefe_Lernverfahren](https://de.wikipedia.org/wiki/Tiefe_Lernverfahren)
+
+## Contribute
+
+Du hast Verbesserungsvorschläge? Dann erstelle gerne ein Pull Request oder schreibe ein paar Zeilen in [Diskussionforum](https://github.com/vergissberlin/talk-ai-and-software-development/discussions) oder [Twitter](https://twitter.com/vergissberlin).
