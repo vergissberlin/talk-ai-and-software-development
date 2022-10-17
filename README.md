@@ -1,30 +1,42 @@
-# Talk: KI in der Softwareentwicklung
+# 💬 Talk: KI in der Softwareentwicklung
 
-**Clickbate:**
+> **Clickbate:** Wird KI innerhalb der nächsten 10 Jahre den Beruf des Softwareentwicklers übernehmen?
+> **ODER:** Wie AI den Beruf des Software Engineers verändert.
 
-> Wird KI innerhalb der nächsten 10 Jahre den Beruf des Softwareentwicklers übernehmen?
+```text
+Dauer:              1h 30min - 2h
+Niveau:             Einsteiger (keine Vorkenntnisse notwendig)
+Zielgruppe:         Auch Nicht-Entwickler die sich für KI Interessieren
+Voraussetzungen:    Keine
+Sprache:            Deutsch
+Author:             André Lademann <vergissberlin@gmail.com>
+```
 
-**ODER:**
+## Ziel des Talks
 
-> Wie AI den Beruf des Software Engineers verändert.
+Mein Ziel ist es, eine Diskussion anzuregen, bei der wir über die Vor- und Nachteile der Mutzung von KI in der Software Entwicklung sprechen. Wir schauen uns an, was derzeit möglich ist, und Orakeln gemeinsam wohin die Reise noch gehen wird.
 
-## 1. Was  ist KI?
+---
+
+## Begriffsklärung aus der Welt der Künstlichen Intelligenz
+
+### 1. Was ist KI?
 
 KI - oder AI - steht für Künstliche Intellegenz. Es ist ein Teilgebiet der Informatik, welches sich mit der Entwicklung von Systemen beschäftigt, die menschliche Intelligenz nachahmen.
 
-## 2. Was ist Machine Learning?
+### 2. Was ist Machine Learning?
 
 Um diese KIs zu entwickeln, wird Machine Learning verwendet. Machine Learning ist ein Teilgebiet der Informatik, welches sich mit der Entwicklung von Systemen beschäftigt, die aus Daten lernen.
 
-## 3. Was ist Deep Learning?
+### 3. Was ist Deep Learning?
 
 Um diese KIs zu entwickeln, wird Deep Learning verwendet. Deep Learning ist ein Teilgebiet der Informatik, welches sich mit der Entwicklung von Systemen beschäftigt.
 
-## 4. Was ist ein neuronales Netz?
+### 4. Was ist ein neuronales Netz?
 
 Um diese KIs zu entwickeln, wird ein neuronales Netz verwendet. Ein neuronales Netz ist ein System, welches aus Neuronen besteht. Diese Neuronen sind in Schichten angeordnet. Jedes Neuron hat eine Funktion, die auf die Eingabe angewendet wird. Die Ausgabe eines Neurons ist die Eingabe des nächsten Neurons. Die Ausgabe des letzten Neurons ist die Ausgabe des gesamten Netzes.
 
-## 5. Was ist ein Neuron?
+### 5. Was ist ein Neuron?
 
 Ein Neuron ist ein mathematisches Modell, welches eine Funktion hat. Diese Funktion wird auf die Eingabe angewendet. Die Ausgabe ist die Eingabe des nächsten Neurons. Die Ausgabe des letzten Neurons ist die Ausgabe des gesamten Netzes.
 
