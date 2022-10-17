@@ -1,2 +1,83 @@
-# talk-aisoft
-Using AI to improve software development efficiency OR Used by AI
+# Talk: KI in der Softwareentwicklung
+
+**Clickbate:**
+
+> Wird KI innerhalb der nächsten 10 Jahre den Beruf des Softwareentwicklers übernehmen?
+
+**ODER:**
+
+> Wie AI den Beruf des Software Engineers verändert.
+
+## 1. Was  ist KI?
+
+KI - oder AI - steht für Künstliche Intellegenz. Es ist ein Teilgebiet der Informatik, welches sich mit der Entwicklung von Systemen beschäftigt, die menschliche Intelligenz nachahmen.
+
+## 2. Was ist Machine Learning?
+
+Um diese KIs zu entwickeln, wird Machine Learning verwendet. Machine Learning ist ein Teilgebiet der Informatik, welches sich mit der Entwicklung von Systemen beschäftigt, die aus Daten lernen.
+
+## 3. Was ist Deep Learning?
+
+Um diese KIs zu entwickeln, wird Deep Learning verwendet. Deep Learning ist ein Teilgebiet der Informatik, welches sich mit der Entwicklung von Systemen beschäftigt.
+
+## 4. Was ist ein neuronales Netz?
+
+Um diese KIs zu entwickeln, wird ein neuronales Netz verwendet. Ein neuronales Netz ist ein System, welches aus Neuronen besteht. Diese Neuronen sind in Schichten angeordnet. Jedes Neuron hat eine Funktion, die auf die Eingabe angewendet wird. Die Ausgabe eines Neurons ist die Eingabe des nächsten Neurons. Die Ausgabe des letzten Neurons ist die Ausgabe des gesamten Netzes.
+
+## 5. Was ist ein Neuron?
+
+Ein Neuron ist ein mathematisches Modell, welches eine Funktion hat. Diese Funktion wird auf die Eingabe angewendet. Die Ausgabe ist die Eingabe des nächsten Neurons. Die Ausgabe des letzten Neurons ist die Ausgabe des gesamten Netzes.
+
+## Anwendungsgebiete von KI
+
+1. Spracherkennung
+2. Bilderkennung
+3. Bildverarbeitung
+4. Softwareentwicklung
+5. Selbstfahrende Autos
+6. Medizin
+7. Spiele
+
+## KI in der Softwareentwicklung
+
+1. Codegenerierung
+2. Code Reviews
+3. Refactoring
+4. Testgenerierung
+
+### 1. Codegenerierung
+
+KI kann Code generieren. Dieser Code ist nicht immer optimal, aber er ist besser als nichts. Dieser Code kann dann von einem Softwareentwickler überarbeitet werden. Dieser Prozess wird Codegenerierung genannt.
+
+### 2. Code Reviews
+
+KI kann Code Reviews durchführen. Dieser Prozess wird Code Review genannt. Dieser Prozess ist sehr zeitaufwendig und kostspielig. KI kann diesen Prozess automatisieren.
+
+### 3. Refactoring
+
+KI kann Code refactoren. Dieser Prozess wird Refactoring genannt. Dieser Prozess ist sehr zeitaufwendig und kostspielig. KI kann diesen Prozess automatisieren.
+
+### 4. Testgenerierung
+
+KI kann Tests generieren. Dieser Prozess wird Testgenerierung genannt. Dieser Prozess ist sehr zeitaufwendig und kostspielig. KI kann diesen Prozess automatisieren.
+
+## Beispieleanwendung mit GitHub Copilot
+
+- Generiere eine React App mit `npx create-react-app aiexample`
+- Definiere den Pfad zur Google Kalender
+- API `https://www.googleapis.com/calendar/v3/calendars/c_5258cab6afd7d5d022df5d55f03d83f416c7cd29d80d1f1bc6f15bfa97d6834d@group.calendar.google.com/events?key=YOUR_KEY`
+
+## Weitere Informationen
+
+- [KI in der Softwareentwicklung](https://www.youtube.com/watch?v=RVUxHBVEuo0)
+- [Does AI Mean THE END For Software Developers?](https://www.youtube.com/watch?v=ZOwgNA_zKnE)
+- https://debuild.app/waitlist
+- https://gpt3demo.com
+- https://sourcery.ai 
+- https://openai.com/blog/openai-api/
+
+## Quellen
+
+- [https://de.wikipedia.org/wiki/K%C3%BCnstliche_Intelligenz](https://de.wikipedia.org/wiki/K%C3%BCnstliche_Intelligenz)
+- [https://de.wikipedia.org/wiki/Maschinelles_Lernen](https://de.wikipedia.org/wiki/Maschinelles_Lernen)
+- [https://de.wikipedia.org/wiki/Tiefe_Lernverfahren](https://de.wikipedia.org/wiki/Tiefe_Lernverfahren)
