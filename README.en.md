@@ -23,6 +23,33 @@ My goal is to stimulate a discussion where we talk about the pros and cons of us
 
 KI - or AI - stands for artificial intelligence. It is a branch of computer science that deals with the development of systems that mimic human intelligence.
 
+<https://ai.google/tools/>
+
+**Examples of AI are:**
+
+#### text2music
+
+-   <https://sync.beatoven.ai/track/49b06d14-32da-4ff9-a6e8-93ddeb5a67ff>
+-   <https://creators.aiva.ai/>
+    -   <https://www.youtube.com/watch?v=hTXFfHr8mUk>
+    -   <https://www.youtube.com/watch?v=Emidxpkyk6o>
+-   <https://magenta.tensorflow.org>
+
+#### text2image
+
+-   Dream Booth<https://colab.research.google.com/drive/1XHIORmmem-1jNWKCfzavf_TkWa0JzHR->
+-   <https://deepai.org/machine-learning-model/text2img>
+
+#### image2text
+
+#### image2image
+
+-   <https://hotpot.ai/>
+
+#### text2video
+
+#### video2text
+
 ### 2. Was ist Machine Learning?
 
 Machine learning is used to develop these AIs. Machine learning is a branch of computer science that deals with the development of systems that learn from data.
@@ -96,3 +123,13 @@ AI can generate tests. This process is called test generation. This process is v
 ## Contribute
 
 Do you have suggestions for improvement? Then feel free to create a pull request or write a few lines in[discussion forum](https://github.com/vergissberlin/talk-ai-and-software-development/discussions)or[Twitter](https://twitter.com/vergissberlin).
+
+# Conclusion
+
+AI is about to change our everyday work. We have to prepare for it and educate ourselves. We must recognize the opportunities and assess the risks. We must use the advantages and avoid the disadvantages. We must seize the opportunities and avoid the dangers. We must seize the opportunities and avoid the risks.
+
+## Related Links
+
+-   <https://de.wikipedia.org/wiki/K%C3%BCnstliche_Intelligenz>
+-   <https://de.wikipedia.org/wiki/Maschinelles_Lernen>
+-   [https://de.wikipedia.org/wiki/Tiefe_Lernverfahren]\(<https://de.wikipedia.org/wiki/Tiefe_Lernverfahren>
