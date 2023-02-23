@@ -24,6 +24,35 @@ Mein Ziel ist es, eine Diskussion anzuregen, bei der wir über die Vor- und Nach
 
 KI - oder AI - steht für Künstliche Intellegenz. Es ist ein Teilgebiet der Informatik, welches sich mit der Entwicklung von Systemen beschäftigt, die menschliche Intelligenz nachahmen.
 
+<https://ai.google/tools/>
+
+**Beispiele für KI sind:**
+
+#### text2music
+
+- <https://sync.beatoven.ai/track/49b06d14-32da-4ff9-a6e8-93ddeb5a67ff>
+- <https://creators.aiva.ai/>
+  - <https://www.youtube.com/watch?v=hTXFfHr8mUk>
+  - <https://www.youtube.com/watch?v=Emidxpkyk6o>
+- <https://magenta.tensorflow.org>
+
+
+#### text2image
+
+- Dream Booth <https://colab.research.google.com/drive/1XHIORmmem-1jNWKCfzavf_TkWa0JzHR->
+- <https://deepai.org/machine-learning-model/text2img>
+
+####  image2text
+
+####  image2image
+
+- <https://hotpot.ai/>
+
+#### text2video
+
+####  video2text
+
+
 ### 2. Was ist Machine Learning?
 
 Um diese KIs zu entwickeln, wird Machine Learning verwendet. Machine Learning ist ein Teilgebiet der Informatik, welches sich mit der Entwicklung von Systemen beschäftigt, die aus Daten lernen.
@@ -97,3 +126,13 @@ KI kann Tests generieren. Dieser Prozess wird Testgenerierung genannt. Dieser Pr
 ## Contribute
 
 Du hast Verbesserungsvorschläge? Dann erstelle gerne ein Pull Request oder schreibe ein paar Zeilen in [Diskussionforum](https://github.com/vergissberlin/talk-ai-and-software-development/discussions) oder [Twitter](https://twitter.com/vergissberlin).
+
+# Fazit
+
+AI ist dabei unseren Arbeitsalltag zu verändern. Wir müssen uns darauf vorbereiten und uns weiterbilden. Wir müssen die Chancen erkennen und die Risiken bewerten. Wir müssen die Vorteile nutzen und die Nachteile vermeiden. Wir müssen die Möglichkeiten nutzen und die Gefahren vermeiden. Wir müssen die Chancen nutzen und die Risiken vermeiden.
+
+## Weiterführende Links
+
+- [https://de.wikipedia.org/wiki/K%C3%BCnstliche_Intelligenz](https://de.wikipedia.org/wiki/K%C3%BCnstliche_Intelligenz)
+- [https://de.wikipedia.org/wiki/Maschinelles_Lernen](https://de.wikipedia.org/wiki/Maschinelles_Lernen)
+- [https://de.wikipedia.org/wiki/Tiefe_Lernverfahren](https://de.wikipedia.org/wiki/Tiefe_Lernverfahren
