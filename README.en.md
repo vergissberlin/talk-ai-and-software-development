@@ -1,6 +1,6 @@
 # 💬 Talk: AI in software development
 
-> **Clickbait:**Will AI take over the software development profession within the next 10 years?**OR:**How AI is changing the software engineering profession.
+> **Clickbate:**Will AI take over the profession of software developer within the next 10 years?**OR:**How Ai changes the profession of software engineer.
 
 ```text
 Dauer:              1h 30min - 2h
@@ -11,17 +11,17 @@ Sprache:            Deutsch
 Author:             André Lademann <vergissberlin@gmail.com>
 ```
 
-## goal of the talk
+## Goal of the talk
 
-My goal is to stimulate a discussion where we talk about the pros and cons of using AI in software development. We look at what is currently possible and oracles together where the journey will go.
+My goal is to stimulate a discussion in which we talk about the advantages and disadvantages of the use of AI in the software development. We look at what is currently possible and oracles together where the trip will go.
 
 * * *
 
-## Explanation of terms from the world of artificial intelligence
+## Demendant from the world of artificial intelligence
 
 ### 1. What is AI?
 
-KI - or AI - stands for artificial intelligence. It is a branch of computer science that deals with the development of systems that mimic human intelligence.
+AI - or AI - stands for artificial intelligence. It is a sub -area of ​​computer science that deals with the development of systems that mimic human intelligence.
 
 <https://ai.google/tools/>
 
@@ -52,60 +52,60 @@ KI - or AI - stands for artificial intelligence. It is a branch of computer scie
 
 ### 2. Was ist Machine Learning?
 
-Machine learning is used to develop these AIs. Machine learning is a branch of computer science that deals with the development of systems that learn from data.
+Machine Learning is used to develop this KIS. Machine Learning is a sub -area of ​​computer science that deals with the development of systems that learn from data.
 
 ### 3. Was ist Deep Learning?
 
-Deep learning is used to develop these AIs. Deep learning is a branch of computer science that deals with the development of systems.
+Deep learning is used to develop this KIS. Deep Learning is a sub -area of ​​computer science that deals with the development of systems.
 
 ### 4. What is a neural network?
 
-A neural network is used to develop these AIs. A neural network is a system made up of neurons. These neurons are arranged in layers. Each neuron has a function that is applied to the input. The output of a neuron is the input of the next neuron. The output of the last neuron is the output of the entire network.
+A neuronal network is used to develop this KIS. A neuronal network is a system that consists of neurons. These neurons are arranged in layers. Each neuron has a function that is applied to the input. The edition of a neuron is the entry of the next neuron. The output of the last neuron is the output of the entire network.
 
 ### 5. What is a neuron?
 
-A neuron is a mathematical model that has a function. This function is applied to the input. The output is the input of the next neuron. The output of the last neuron is the output of the entire network.
+A neuron is a mathematical model that has a function. This function is applied to the input. The output is the entry of the next neuron. The output of the last neuron is the output of the entire network.
 
-## Application areas of AI
+## Areas of application from AI
 
-1.  voice recognition
-2.  image recognition
-3.  image processing
-4.  software development
-5.  Self-Driving Cars
+1.  Speech recognition
+2.  Picture detection
+3.  Image processing
+4.  Software development
+5.  Self -driving cars
 6.  medicine
-7.  games
+7.  Gaming
 
 ## AI in software development
 
-1.  code generation
+1.  Codegen
 2.  Code Reviews
 3.  Refactoring
-4.  test generation
+4.  Test generation
 
-### 1. Code generation
+### 1. Codegenization
 
-AI can generate code. This code isn't always optimal, but it's better than nothing. This code can then be revised by a software developer. This process is called code generation.
+AI can generate code. This code is not always optimal, but it is better than nothing. This code can then be revised by a software developer. This process is called codegen.
 
 ### 2. Code Reviews
 
-AI can do code reviews. This process is called code review. This process is very time consuming and expensive. AI can automate this process.
+AI can carry out code reviews. This process is called Code Review. This process is very time -consuming and expensive. AI can automate this process.
 
 ### 3. Refactoring
 
-AI can refactor code. This process is called refactoring. This process is very time consuming and expensive. AI can automate this process.
+AI can refactors. This process is called refactoring. This process is very time -consuming and expensive. AI can automate this process.
 
-### 4. Test Generation
+### 4. Test generation
 
-AI can generate tests. This process is called test generation. This process is very time consuming and expensive. AI can automate this process.
+AI can generate tests. This process is called test generation. This process is very time -consuming and expensive. AI can automate this process.
 
-## Sample application using GitHub Copilot
+## Examination application with Github Copilot
 
--   Generate a React App with`npx create-react-app aiexample`
--   Define the path to Google Calendar
+-   Generate a react app with`npx create-react-app aiexample`
+-   Definiere den Pfad zur Google Kalender
 -   API`https://www.googleapis.com/calendar/v3/calendars/c_5258cab6afd7d5d022df5d55f03d83f416c7cd29d80d1f1bc6f15bfa97d6834d@group.calendar.google.com/events?key=YOUR_KEY`
 
-## Further information
+## More information
 
 -   [AI in software development](https://www.youtube.com/watch?v=RVUxHBVEuo0)
 -   [Does AI Mean THE END For Software Developers?](https://www.youtube.com/watch?v=ZOwgNA_zKnE)
@@ -122,13 +122,13 @@ AI can generate tests. This process is called test generation. This process is v
 
 ## Contribute
 
-Do you have suggestions for improvement? Then feel free to create a pull request or write a few lines in[discussion forum](https://github.com/vergissberlin/talk-ai-and-software-development/discussions)or[Twitter](https://twitter.com/vergissberlin).
+Do you have suggestions for improvement? Then like to create a pull request or write a few lines in[Forum for discussion](https://github.com/vergissberlin/talk-ai-and-software-development/discussions)or[Twitter](https://twitter.com/vergissberlin).
 
 # Conclusion
 
-AI is about to change our everyday work. We have to prepare for it and educate ourselves. We must recognize the opportunities and assess the risks. We must use the advantages and avoid the disadvantages. We must seize the opportunities and avoid the dangers. We must seize the opportunities and avoid the risks.
+AI is to change our everyday work. We have to prepare for it and train ourselves. We have to recognize the opportunities and evaluate the risks. We have to use the advantages and avoid the disadvantages. We have to use the possibilities and avoid the dangers. We have to take advantage of the opportunities and avoid the risks.
 
-## Related Links
+## Further links
 
 -   <https://de.wikipedia.org/wiki/K%C3%BCnstliche_Intelligenz>
 -   <https://de.wikipedia.org/wiki/Maschinelles_Lernen>
