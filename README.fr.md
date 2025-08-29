@@ -1,6 +1,6 @@
-# 💬 Conférence : L'IA dans le développement logiciel
+# 💬 Talk: IA dans le développement de logiciels
 
-> **Clickbait :**L'IA va-t-elle prendre le pas sur le métier du développement logiciel dans les 10 prochaines années ?**OU:**Comment l'IA change la profession d'ingénieur logiciel.
+> **Clickbait:**L'IA reprendra-t-elle la profession de développeur de logiciels au cours des 10 prochaines années?**OU:**Comment l'IA modifie la profession de l'ingénieur logiciel.
 
 ```text
 Dauer:              1h 30min - 2h
@@ -13,19 +13,19 @@ Author:             André Lademann <vergissberlin@gmail.com>
 
 ## Ziel des Talks
 
-Mon objectif est de stimuler une discussion où nous parlons des avantages et des inconvénients de l'utilisation de l'IA dans le développement de logiciels. Nous examinons ce qui est actuellement possible et oracles ensemble où le voyage ira.
+Mon objectif est de stimuler une discussion dans laquelle nous parlons des avantages et des inconvénients de l'utilisation de l'IA dans le développement logiciel. Nous regardons ce qui est actuellement possible et des oracles là où le voyage ira.
 
 * * *
 
-## Explication des termes du monde de l'intelligence artificielle
+## Déendant du monde de l'intelligence artificielle
 
-### 1. Qu'est-ce que l'IA ?
+### 1. Was ist KI?
 
-KI - ou AI - signifie intelligence artificielle. C'est une branche de l'informatique qui s'occupe du développement de systèmes qui imitent l'intelligence humaine.
+Ai - ou ai - signifie l'intelligence artificielle. Il s'agit d'une sous-zone d'informatique qui traite du développement de systèmes qui imitent l'intelligence humaine.
 
 <https://ai.google/tools/>
 
-**Voici des exemples d'IA :**
+**Des exemples d'IA sont:**
 
 #### text2music
 
@@ -35,12 +35,12 @@ KI - ou AI - signifie intelligence artificielle. C'est une branche de l'informat
     -   <https://www.youtube.com/watch?v=Emidxpkyk6o>
 -   <https://magenta.tensorflow.org>
 
-#### texte2image
+#### text2image
 
--   Cabine de Rêve<https://colab.research.google.com/drive/1XHIORmmem-1jNWKCfzavf_TkWa0JzHR->
+-   Stand de rêve<https://colab.research.google.com/drive/1XHIORmmem-1jNWKCfzavf_TkWa0JzHR->
 -   <https://deepai.org/machine-learning-model/text2img>
 
-#### image2texte
+#### Image2Text
 
 #### image2image
 
@@ -48,67 +48,67 @@ KI - ou AI - signifie intelligence artificielle. C'est une branche de l'informat
 
 #### text2video
 
-#### video2text
+#### vidéo2text
 
-### 2. Qu'est-ce que l'apprentissage automatique ?
+### 2. Qu'est-ce que l'apprentissage automatique?
 
-L'apprentissage automatique est utilisé pour développer ces IA. L'apprentissage automatique est une branche de l'informatique qui traite du développement de systèmes qui apprennent à partir de données.
+L'apprentissage automatique est utilisé pour développer ce KIS. L'apprentissage automatique est une sous-zone d'informatique qui traite du développement de systèmes qui apprennent des données.
 
-### 3. Était-ce le Deep Learning ?
+### 3. Était-ce que l'apprentissage en profondeur?
 
-L'apprentissage en profondeur est utilisé pour développer ces IA. L'apprentissage en profondeur est une branche de l'informatique qui traite du développement de systèmes.
+Le Deep Learning est utilisé pour développer ce KIS. Le Deep Learning est une sous-zone d'informatique qui traite du développement des systèmes.
 
-### 4. Qu'est-ce qu'un réseau neuronal ?
+### 4. Qu'est-ce qu'un réseau neuronal?
 
-Un réseau de neurones est utilisé pour développer ces IA. Un réseau de neurones est un système composé de neurones. Ces neurones sont disposés en couches. Chaque neurone a une fonction qui est appliquée à l'entrée. La sortie d'un neurone est l'entrée du neurone suivant. La sortie du dernier neurone est la sortie de tout le réseau.
+Un réseau neuronal est utilisé pour développer ce KIS. Un réseau neuronal est un système qui se compose de neurones. Ces neurones sont disposés en couches. Chaque neurone a une fonction qui est appliquée à l'entrée. L'édition d'un neurone est l'entrée du prochain neurone. La sortie du dernier neurone est la sortie de l'ensemble du réseau.
 
-### 5. Qu'est-ce qu'un neurone ?
+### 5. Qu'est-ce qu'un neurone?
 
-Un neurone est un modèle mathématique qui a une fonction. Cette fonction est appliquée à l'entrée. La sortie est l'entrée du neurone suivant. La sortie du dernier neurone est la sortie de tout le réseau.
+Un neurone est un modèle mathématique qui a une fonction. Cette fonction est appliquée à l'entrée. La sortie est l'entrée du prochain neurone. La sortie du dernier neurone est la sortie de l'ensemble du réseau.
 
 ## Domaines d'application de l'IA
 
-1.  reconnaissance vocale
-2.  reconnaissance d'images
-3.  traitement d'image
-4.  développement de logiciels
-5.  Voitures autonomes
+1.  Reconnaissance de la parole
+2.  Détection d'images
+3.  Traitement d'image
+4.  Développement de logiciels
+5.  Voitures auto-conduites
 6.  médecine
-7.  Jeux
+7.  Jeu
 
-## L'IA dans le développement logiciel
+## IA dans le développement de logiciels
 
-1.  génération de code
-2.  Examens des codes
+1.  Codegen
+2.  Revues de code
 3.  Refactorisation
-4.  génération de tests
+4.  Testgenerierung
 
-### 1. Génération de codes
+### 1. CodeGenisation
 
-L'IA peut générer du code. Ce code n'est pas toujours optimal, mais c'est mieux que rien. Ce code peut ensuite être révisé par un développeur de logiciel. Ce processus est appelé génération de code.
+L'IA peut générer du code. Ce code n'est pas toujours optimal, mais il vaut mieux que rien. Ce code peut ensuite être révisé par un développeur de logiciels. Ce processus est appelé codegen.
 
-### 2. Examens des codes
+### 2. Avis de code
 
-L'IA peut faire des revues de code. Ce processus est appelé revue de code. Ce processus est très long et coûteux. L'IA peut automatiser ce processus.
+L'IA peut effectuer des avis de code. Ce processus est appelé revue de code. Ce processus est très temps et coûteux. L'IA peut automatiser ce processus.
 
 ### 3. Refactorisation
 
-L'IA peut refactoriser le code. Ce processus est appelé refactorisation. Ce processus est très long et coûteux. L'IA peut automatiser ce processus.
+L'IA peut refacter. Ce processus est appelé refactoring. Ce processus est très temps et coûteux. L'IA peut automatiser ce processus.
 
 ### 4. Génération de tests
 
-L'IA peut générer des tests. Ce processus est appelé génération de test. Ce processus est très long et coûteux. L'IA peut automatiser ce processus.
+L'IA peut générer des tests. Ce processus est appelé génération de tests. Ce processus est très temps et coûteux. L'IA peut automatiser ce processus.
 
-## Exemple d'application utilisant GitHub Copilot
+## Demande d'examen avec GitHub Copilot
 
 -   Générer une application React avec`npx create-react-app aiexample`
--   Définir le chemin d'accès à Google Agenda
+-   Définissez le chemin du calendrier Google
 -   API`https://www.googleapis.com/calendar/v3/calendars/c_5258cab6afd7d5d022df5d55f03d83f416c7cd29d80d1f1bc6f15bfa97d6834d@group.calendar.google.com/events?key=YOUR_KEY`
 
 ## Plus d'informations
 
--   [L'IA dans le développement logiciel](https://www.youtube.com/watch?v=RVUxHBVEuo0)
--   [L'IA signifie-t-elle LA FIN pour les développeurs de logiciels ?](https://www.youtube.com/watch?v=ZOwgNA_zKnE)
+-   [IA dans le développement de logiciels](https://www.youtube.com/watch?v=RVUxHBVEuo0)
+-   [L'IA signifie-t-elle la fin des développeurs de logiciels?](https://www.youtube.com/watch?v=ZOwgNA_zKnE)
 -   <https://debuild.app/waitlist>
 -   <https://gpt3demo.com>
 -   <https://sourcery.ai>
@@ -122,13 +122,13 @@ L'IA peut générer des tests. Ce processus est appelé génération de test. Ce
 
 ## Contribuer
 
-Avez-vous des suggestions d'amélioration? Alors n'hésitez pas à créer une pull request ou à écrire quelques lignes dans[forum de discussion](https://github.com/vergissberlin/talk-ai-and-software-development/discussions)ou[Twitter](https://twitter.com/vergissberlin).
+Avez-vous des suggestions d'amélioration? Puis aime créer une demande de traction ou écrire quelques lignes dans[Forum pour la discussion](https://github.com/vergissberlin/talk-ai-and-software-development/discussions)ou[Gazouillement](https://twitter.com/vergissberlin).
 
 # Conclusion
 
-L'IA est sur le point de changer notre travail quotidien. Il faut s'y préparer et s'éduquer. Nous devons reconnaître les opportunités et évaluer les risques. Il faut utiliser les avantages et éviter les inconvénients. Il faut saisir les opportunités et éviter les dangers. Nous devons saisir les opportunités et éviter les risques.
+L'IA doit changer notre travail quotidien. Nous devons nous y préparer et nous entraîner. Nous devons reconnaître les opportunités et évaluer les risques. Nous devons utiliser les avantages et éviter les inconvénients. Nous devons utiliser les possibilités et éviter les dangers. Nous devons profiter des opportunités et éviter les risques.
 
-## Liens connexes
+## Autres liens
 
 -   <https://de.wikipedia.org/wiki/K%C3%BCnstliche_Intelligenz>
 -   <https://de.wikipedia.org/wiki/Maschinelles_Lernen>
